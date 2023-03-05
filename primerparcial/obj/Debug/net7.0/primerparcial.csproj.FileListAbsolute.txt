@@ -1,0 +1,15 @@
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/bin/Debug/net7.0/primerparcial
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/bin/Debug/net7.0/primerparcial.deps.json
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/bin/Debug/net7.0/primerparcial.runtimeconfig.json
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/bin/Debug/net7.0/primerparcial.dll
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/bin/Debug/net7.0/primerparcial.pdb
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/obj/Debug/net7.0/primerparcial.csproj.AssemblyReference.cache
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/obj/Debug/net7.0/primerparcial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/obj/Debug/net7.0/primerparcial.AssemblyInfoInputs.cache
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/obj/Debug/net7.0/primerparcial.AssemblyInfo.cs
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/obj/Debug/net7.0/primerparcial.csproj.CoreCompileInputs.cache
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/obj/Debug/net7.0/primerparcial.dll
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/obj/Debug/net7.0/refint/primerparcial.dll
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/obj/Debug/net7.0/primerparcial.pdb
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/obj/Debug/net7.0/primerparcial.genruntimeconfig.cache
+/Users/emanuelgarrido/Desktop/University/primerparcial/primerparcial/obj/Debug/net7.0/ref/primerparcial.dll
